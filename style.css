@@ -1,0 +1,95 @@
+h1{
+    font-family: 'Praise', cursive;
+    font-size: 89px;
+    color: rgba(89, 218, 218, 0.925);
+    text-align: center;
+    padding-top: 20px;
+}
+h2{
+    font-family: 'Lobster', cursive;
+    font-size: 56px;
+    color: rgba(252, 252, 252, 0.938);
+   text-align: center;
+
+}
+h3{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    color: rgba(34, 77, 77, 0.911);
+    text-align: center;
+
+}
+p{
+    font-family:Verdana, Geneva, Tahoma,sans-serif;  
+    text-align: center;
+    font-size: 22px;
+    color: #2d4d52;
+    max-width: 500px;
+    margin: auto;
+    padding-bottom: 30px;
+
+}
+.plegendaimg {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    color: #2d4d52;
+    max-width: 500px;
+    margin: auto;
+    padding-bottom: 30px;
+}
+.plegendaprod {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: #2d4d52;
+    height: auto;
+    margin-left: 0.5in;
+    padding: 20px;
+
+}
+
+.divazul {
+    background-color: #2d4d52;
+    text-align: center;
+}
+.divwith {
+    background-color: #feffff;
+    text-align: center;
+}
+
+.divcinza {
+    background-color: #aaacac9a;
+    text-align: center;
+}
+
+.divbranco {
+    background-color: #F6F6F6;
+    text-align: center;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+.imagens {
+    height: auto;
+    display: inline-block;
+    margin-right: 87px;
+    padding: 20px;
+}
+
+.imagenss {
+
+    height: auto;
+    display: inline-block;
+    margin-right: 20px;
+    padding: 30px;
+}
+
+
+
+.formulario {
+    font-family:"Roboto Slab", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+    color: #7885b9;
+}
